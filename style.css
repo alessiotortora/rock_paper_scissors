@@ -1,0 +1,11 @@
+.play {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.result {
+    font: bold;
+    font-size: 40px;
+}
